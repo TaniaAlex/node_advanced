@@ -4,5 +4,10 @@
 }
 
 body {
-  background: rgba(204, 204, 221, 0.831);
+  background: rgba(144, 126, 207, 0.831);
+}
+h1 {
+  color: whitesmoke;
+  text-transform: uppercase;
+  text-align: center;
 }
