@@ -1,0 +1,1 @@
+Test NodeJS and Modul fsMethod appendFile will modify existing file so you can add more content
